@@ -1,0 +1,141 @@
+[{
+        "key": "chelsea",
+        "name": "Chelsea FC",
+        "code": "CHE",
+        "nickname": null,
+        "id": 1
+    },
+    {
+        "key": "arsenal",
+        "name": "Arsenal FC",
+        "code": "ARS",
+        "nickname": null,
+        "id": 2
+    },
+    {
+        "key": "tottenham",
+        "name": "Tottenham Hotspur FC",
+        "code": "TOT",
+        "nickname": "Spurs",
+        "id": 3
+    },
+    {
+        "key": "westham",
+        "name": "West Ham United FC",
+        "code": "WHU",
+        "nickname": null,
+        "id": 4
+    },
+    {
+        "key": "crystalpalace",
+        "name": "Crystal Palace FC",
+        "code": "CRY",
+        "nickname": null,
+        "id": 5
+    },
+    {
+        "key": "manutd",
+        "name": "Manchester United FC",
+        "code": "MUN",
+        "nickname": null,
+        "id": 6
+    },
+    {
+        "key": "mancity",
+        "name": "Manchester City FC",
+        "code": "MCI",
+        "nickname": null,
+        "id": 7
+    },
+    {
+        "key": "everton",
+        "name": "Everton FC",
+        "code": "EVE",
+        "nickname": null,
+        "id": 8
+    },
+    {
+        "key": "liverpool",
+        "name": "Liverpool FC",
+        "code": "LIV",
+        "nickname": null,
+        "id": 9
+    },
+    {
+        "key": "newcastle",
+        "name": "Newcastle United FC",
+        "code": "NEW",
+        "nickname": null,
+        "id": 10
+    },
+    {
+        "key": "astonvilla",
+        "name": "Aston Villa FC",
+        "code": "AVL",
+        "nickname": null,
+        "id": 11
+    },
+    {
+        "key": "southampton",
+        "name": "Southampton FC",
+        "code": "SOU",
+        "nickname": null,
+        "id": 12
+    },
+    {
+        "key": "leicester",
+        "name": "Leicester City FC",
+        "code": "LEI",
+        "nickname": null,
+        "id": 13
+    },
+    {
+        "key": "bournemouth",
+        "name": "AFC Bournemouth",
+        "code": "BOU",
+        "nickname": null,
+        "id": 14
+    },
+    {
+        "key": "norwich",
+        "name": "Norwich City FC",
+        "code": "NOR",
+        "nickname": null,
+        "id": 15
+    },
+    {
+        "key": "watford",
+        "name": "Watford FC",
+        "code": "WAT",
+        "nickname": null,
+        "id": 16
+    },
+    {
+        "key": "burnley",
+        "name": "Burnley FC",
+        "code": "BUR",
+        "nickname": null,
+        "id": 17
+    },
+    {
+        "key": "brightonhovealbionfc",
+        "name": "Brighton & Hove Albion FC",
+        "code": "BHA",
+        "nickname": null,
+        "id": 18
+    },
+    {
+        "key": "sheffieldunitedfc",
+        "name": "Sheffield United FC",
+        "code": "SHFC",
+        "nickname": null,
+        "id": 19
+    },
+    {
+        "key": "wolverhamptonwanderersfc",
+        "name": "Wolvernuhampton Wanderers FC",
+        "code": "WOL",
+        "nickname": null,
+        "id": 20
+    }
+]
